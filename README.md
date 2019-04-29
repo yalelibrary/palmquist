@@ -1,6 +1,9 @@
 # palmquist
 
+This is an archived respository and is read-only.  The repository for the latest version of this webapp is located on the Enterprise Github instance:  https://git.yale.edu/Library-IT/LibAppWeb_Palmquist
+
 This webapp is a rewrite of the Beinecke Library legacy application Palmquist. 
+
 
 The project can be built using Maven, and the resulting .war file can be dropped into Tomcat (or just launched with `java -jar`).
 The stack is Spring Boot/MVC/Data.
